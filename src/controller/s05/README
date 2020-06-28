@@ -1,0 +1,13 @@
+EMC of diffraction pattern with smaller pixel size:
+Simulation parameters:
+Path: s05
+Purpose: Test the effect of OR comparing to s01
+Orientation distribution: random distribution
+Photon energy: 6 keV
+Resolution at the detector edge: 9.64 A  (Full period resolution)
+Pixel number: 220 x 220
+Pixel size: 500 um
+Sample to detector distance: 0.25 m
+(Fluence calculation) 4.16 x 10^12 photons x 0.38 (optics efficiency) / (250 nm x 150 nm) = 0.42 x 10^22 photons/cm^2
+Number of diffraction patterns: 1560
+
